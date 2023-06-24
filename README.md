@@ -10,11 +10,6 @@ I am an 18 years old programmer from morocco and a student at ALX university
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=moufidayoub11&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=moufidayoub11&theme=vue-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=moufidayoub11&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=moufidayoub11&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Favorite Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Abundance%20mindset%20is%20key.%20Nothing%20big%20was%20ever%20accomplished%20by%20thinking%20small.&author=luke%20belmar)
