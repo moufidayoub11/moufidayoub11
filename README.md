@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am an 18 years old programmer from morocco and a student at ALX university
+I am an 18 years old programmer from morocco and a student at the international university of agadir (UNIVERSIAPOLIS)
 
 
 ## 🌐 Socials:
