@@ -1,6 +1,5 @@
 # 💫 About Me:
-I am an 18 years old programmer from morocco and a student at the international university of agadir (UNIVERSIAPOLIS)
-
+I am a 19-year-old software engineering student from Morocco at the International University of Agadir (Universiapolis).
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayoub-moufid-7b03a8276)
