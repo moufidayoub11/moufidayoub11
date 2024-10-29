@@ -6,7 +6,7 @@ I am a 19-year-old software engineering student from Morocco at the Internationa
 
 
 ### ✍️ Favorite Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Abundance%20mindset%20is%20key.%20Nothing%20big%20was%20ever%20accomplished%20by%20thinking%20small.&author=luke%20belmar)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Abundance%20mindset%20is%20key.%20Nothing%20big%20was%20ever%20accomplished%20by%20thinking%20small.&author=Tony%20Robbins)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=moufidayoub11&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
